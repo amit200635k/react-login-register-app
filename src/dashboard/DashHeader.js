@@ -103,6 +103,7 @@ export default function DashHeader() {
                         <li><Link to="/Inventory" className="nav-link px-2 link-dark">Inventory</Link></li>
                         <li><Link to="/Customers" className="nav-link px-2 link-dark">Customers</Link></li>
                         <li><Link to="/Products" className="nav-link px-2 link-dark">Products</Link></li>
+                        <li><Link to="/About" className="nav-link px-2 link-dark">About</Link></li>
                         </ul>
 
                         <form className="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3">
